@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hakan</h1>
 <h3 align="center">I’m interested in Data Science and Data Applications</h3>
 <p align="center">
-🌱 I’m currently learning https://h-okay.notion.site/Data-Science-Roadmap-4c38bc9af35f45c98335a43346968a63<br>
-📫 How to reach me hokay18@gmail.com
+🌱 <strong>I’m currently learning</strong> https://h-okay.notion.site/Data-Science-Roadmap-4c38bc9af35f45c98335a43346968a63<br>
+📫 <strong>How to reach me</strong> hokay18@gmail.com
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
