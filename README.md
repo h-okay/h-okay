@@ -7,13 +7,7 @@
 
 💬 Ask me about **Python, Machine Learning, SQL and GCP**</center>
 
-🔭 I’m currently tefactoring this project [NBA-ML](https://github.com/h-okay/VBO)
-
-👨‍💻 All of my projects are available at [https://h-okay.github.io/projects/](https://h-okay.github.io/projects/)
-
-📝 I regularly write articles on [https://h-okay.github.io/posts/](https://h-okay.github.io/posts/)
-
-📄 Know about my experiences [https://h-okay.github.io/resume/](https://h-okay.github.io/resume/)
+👨‍💻 Learn more about me at [hakanokay.dev](https://hakanokay.dev)
 
 📫 How to reach me **hokay.ca@gmail.com**
 </div>
