@@ -6,7 +6,7 @@ I'm Hakan, a freelance developer focused on creating end-to-end data solutions f
 
 <img src="https://img.shields.io/badge/Go-blue?logo=go"/> <img src="https://img.shields.io/badge/Rust-orange?logo=rust"/>
 
-### Reach me | Check my work
+### Check my work | Reach me
 
 <a href="https://hakanokay.dev" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-1D263B?logo=devdotto&logoColor=white"/>
