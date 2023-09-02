@@ -12,7 +12,7 @@ I'm Hakan, a freelance developer focused on creating end-to-end data solutions f
 
 ### Check my work and my current tech stack
 
-[![Static Badge](https://img.shields.io/badge/Portfolio-black?logo=devdotto)](https://hakanokay.dev/)
+[![Static Badge](https://img.shields.io/badge/Portfolio-grey?logo=devdotto)](https://hakanokay.dev/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h-okay/h-okay/output/github-contribution-grid-snake-dark.svg">
