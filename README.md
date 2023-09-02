@@ -1,18 +1,22 @@
-Hi there 👋 
+Hi there 👋
 
 I'm Hakan, a freelance developer focused on creating end-to-end data solutions for businesses.
 
-### Currently I'm learning <br> 
-![Static Badge](https://img.shields.io/badge/Go-blue?logo=go) ![Static Badge](https://img.shields.io/badge/Rust-orange?logo=rust)
+### Currently I'm learning <br>
 
-### How to reach me
+<img src="https://img.shields.io/badge/Go-blue?logo=go"/> <img src="https://img.shields.io/badge/Rust-orange?logo=rust"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hakan-okay)
-[![Static Badge](https://img.shields.io/badge/Mail-blue?logo=gmail)](mailto:hokay.ca@gmail.com)
+### Reach me | Check my work
 
-### Check my work and my current tech stack
-
-[![Static Badge](https://img.shields.io/badge/Portfolio-grey?logo=devdotto)](https://hakanokay.dev/)
+<a href="https://hakanokay.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-1D263B?logo=devdotto&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/hakan-okay" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:hokay.ca@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Mail-04A777?logo=gmail&logoColor=white"/>
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h-okay/h-okay/output/github-contribution-grid-snake-dark.svg">
