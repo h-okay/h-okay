@@ -1,10 +1,10 @@
 Hi there 👋
 
-I'm Hakan, a freelance developer focused on creating end-to-end data solutions for businesses.
+I'm Hakan, a software developer focused on creating full stack solutions.
 
 ### Currently I'm learning
 
-<img src="https://img.shields.io/badge/Go-blue?logo=go"/> <img src="https://img.shields.io/badge/Rust-orange?logo=rust"/>
+<img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp"/>
 
 ### Check my work - Reach me
 
