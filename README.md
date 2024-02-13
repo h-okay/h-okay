@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm Hakan, a software developer focused on creating full-stack solutions.
 
-### I'm working on
+### Recently I'm working with
 
 [![h-okay's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=okayhak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
