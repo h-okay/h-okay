@@ -1,10 +1,10 @@
 Hi there 👋
 
-I'm Hakan, a software developer focused on creating full stack solutions.
+I'm Hakan, a software developer focused on creating full-stack solutions.
 
-### Currently I'm learning
+### I'm working on
 
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp"/>
+[![h-okay's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=okayhak)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Check my work - Reach me
 
@@ -23,3 +23,4 @@ I'm Hakan, a software developer focused on creating full stack solutions.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/h-okay/h-okay/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/h-okay/h-okay/output/github-contribution-grid-snake.svg">
 </picture>
+
