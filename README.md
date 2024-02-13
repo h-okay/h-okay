@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Hakan, a software developer focused on creating full-stack solutions.
+I'm Hakan, a software developer creating full-stack solutions.
 
 ### Recently I'm working with
 
